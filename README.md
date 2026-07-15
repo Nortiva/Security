@@ -1,2 +1,9 @@
-# Security
-Sistema central de segurança da Nortiva, responsável por autenticação, proteção de dados, controle de acesso e gerenciamento de recursos de segurança da plataforma.
+## 🔐 Segurança
+
+O sistema segue boas práticas de desenvolvimento seguro:
+
+- Proteção de dados sensíveis
+- Validação de requisições
+- Controle de acesso
+- Registro de atividades
+- Prevenção contra acessos não autorizados
